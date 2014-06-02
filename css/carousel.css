@@ -1,0 +1,43 @@
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 323px;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: -11px;
+  left: 0;
+  min-width: 100%;
+}
+
+.carousel-indicators {
+right: 0;
+left: auto;
+width: auto;
+padding-left: 0;
+margin-right: 13px;
+text-align: center;
+list-style: none;
+}
+
+.carousel-indicators li {
+display: inline-block;
+width: 16px;
+height: 16px;
+margin: 0;
+border: 1px solid #fff;
+border-radius: 16px;
+background-color: #2C425C;
+}
+.carousel-indicators .active {
+width: 16px;
+height: 16px;
+background-color: #83BD3F;
+}
