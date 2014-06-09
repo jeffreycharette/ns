@@ -1,6 +1,6 @@
 <?php require 'top.php'; ?>
 <div class="white">
-	<img src="img/natural_sea_headline.png">
+	<img src="img/banner-products.png">
 </div>
 <div id="gallery" class="carousel slide">
   <!-- Indicators -->
@@ -30,13 +30,13 @@
 <div class="promo">
 	<div class="row">
 		<div class="col-xs-4">
-			<a target="_blank" href="http://msc.org"><img src="img/bottom_left_image.png" width="300" height="380" alt="Bottom Left Image"></a>
+			<a target="_blank" href="http://msc.org"><img src="img/bottom_left_image_2.png" width="300" height="380" alt="Bottom Left Image"></a>
 		</div><!-- /.col-lg-4 -->
 		<div class="col-xs-4">
-			<img src="img/bottom_middle_image.png" width="300" height="380" alt="Bottom Middle Image">
+			<img src="img/bottom_middle_image_2.png" width="300" height="380" alt="Bottom Middle Image">
 		</div><!-- /.col-lg-4 -->
 		<div class="col-xs-4">
-			<a target="_blank" href="http://nongmoproject.org"><img src="img/bottom_right_image.png" width="300" height="380" alt="Bottom Right Image"></a>
+			<a target="_blank" href="http://nongmoproject.org"><img src="img/bottom_right_image_2.png" width="300" height="380" alt="Bottom Right Image"></a>
 		</div><!-- /.col-lg-4 -->
 	</div>
 </div>

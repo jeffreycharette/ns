@@ -28,7 +28,26 @@
 			<h1 class="logo">
 				<a title="Natural Sea" href="/index.php">Natural Sea</a>
 			</h1>
-			<div class="line pull-right">
-				<a data-toggle="modal" href="#contact" title="Drop us a Line!">Drop us a Line!</a>
-			</div>
+			<nav>
+				<ul>
+					<li class="nav-pad"><a href="index.php"><img src="img/home.png" width="50" height="30" alt="Home"></a></li>
+					<li class="nav-pad"><a href="products.php"><img src="img/products.png" width="76" height="30" alt="Products"></a></li>
+					<li><a data-toggle="modal" href="#contact" title="Drop us a Line!"><img src="img/dropusaline-2.png" width="131" height="97" alt="Dropusaline 2"></a></li>
+				</ul>
+				<!--
+				<div class="dropdown">
+					<a data-toggle="dropdown" href="products.php"><img src="img/products.png" width="76" height="30" alt="Products"></a>
+					<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+						<li><a href="canned-tuna.php" title="canned-tuna">Canned Tuna</a></li>
+						<li><a href="canned-seafood.php" title="canned-seafood">Canned Seafood</a></li>
+						<li><a href="frozen-seafood.php" title="frozen-seafood">Frozen Seafood</a></li>
+					</ul>
+				</div>	
+					
+					<div class="line pull-right">
+						<a data-toggle="modal" href="#contact" title="Drop us a Line!">Drop us a Line!</a>
+					</div>
+					
+					-->
+			</nav>
 		</header>
