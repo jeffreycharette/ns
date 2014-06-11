@@ -33,7 +33,7 @@
 			<a target="_blank" href="http://msc.org"><img src="img/bottom_left_image_2.png" width="300" height="380" alt="Bottom Left Image"></a>
 		</div><!-- /.col-lg-4 -->
 		<div class="col-xs-4">
-			<img src="img/bottom_middle_image_2.png" width="300" height="380" alt="Bottom Middle Image">
+			<a target="_blank" href="frozen-seafood.php"><img src="img/bottom_middle_image_2.png" width="300" height="380" alt="Bottom Middle Image"></a>
 		</div><!-- /.col-lg-4 -->
 		<div class="col-xs-4">
 			<a target="_blank" href="http://nongmoproject.org"><img src="img/bottom_right_image_2.png" width="300" height="380" alt="Bottom Right Image"></a>

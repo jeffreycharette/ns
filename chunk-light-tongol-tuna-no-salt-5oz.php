@@ -10,19 +10,21 @@
 			<hr>
 			<div class="row">
 				<div class="col-xs-4">
-					<img src="img/NS_00600_YellowfinSalted5oz_300x300pixels.jpg" width="300" height="300" alt="NS 00600 YellowfinSalted5oz 300x300pixels">
-					<img src="img/NS_Web_Nutrition Panels5.jpg" width="216" height="522" alt="NS Web Nutrition Panels5">
+					<img src="img/NS_00781_TongolNSA5oz_300x300pixels.jpg" width="300" height="300" alt="NS 00781 TongolNSA5oz 300x300pixels">	
+					<img src="img/NS_Web_Nutrition Panels4.jpg" width="216" height="522" alt="NS Web Nutrition Panels4">
 				</div>
 				<div class="col-xs-8">
-					<h3>Yellowfin Tuna, Salted, 5oz</h3>
+					<h3>Chunk Light Tongol Tuna, No Salt Added, 5oz</h3>
 					<p>Ingredients:<br>
-						Yellowfin tuna, spring water, sea salt.<br>
-						Contains fish.</p>
+						Tongol tuna, spring water.<br>
+						Contains: Fish.</p>
 					<div class="symbols">
 						<img src="img/non-gmo.gif" width="83" height="60" alt="Non Gmo">
 						<img src="img/no-bpa.gif" width="118" height="60" alt="No Bpa">
 						<img src="img/dolphin-safe.gif" width="61" height="60" alt="Dolphin Safe">
-						<img src="img/ou-logo.gif" width="60" height="60" alt="Ou Logo">
+						<img src="img/ou-logo.gif" width="60" height="60" alt="Ou Logo"><br>
+						<img src="img/icon-ocean-friendly.gif" width="78" height="60" alt="Icon Ocean Friendly">
+						<img src="img/icon-natural-omega-3s.gif" width="99" height="60" alt="Icon Natural Omega 3s">
 					</div>
 				</div>
 			</div>

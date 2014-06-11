@@ -1,7 +1,7 @@
 <?php require 'top.php'; ?>
 <div class="white">
 	<!-- Put your top image here may need to change class above for sizing-->
-	<img src="img/banner-tuna.png">
+	<img src="img/banner-seafood.png">
 </div>
 <div class="row">
 	<div class="col-xs-12">
@@ -14,15 +14,18 @@
 					<img src="img/NS_Web_Nutrition Panels17.jpg" width="216" height="522" alt="NS Web Nutrition Panels17">
 				</div>
 				<div class="col-xs-8">
-					<h3>Pink Salmon, No Salt Added, 7.5oz</h3>
+					<h3>Wild Alaska Premium Pink Salmon, No Salt Added, 7.5oz</h3>
 					<p>Ingredients:<br>
-						Pink salmon, spring water.<br>
-						Contains fish.</p>
+						Wild Alaska pink salmon.<br>
+						Contains: Fish.<br>
+						May contain bones.</p>
 					<div class="symbols">
 						<img src="img/non-gmo.gif" width="83" height="60" alt="Non Gmo">
-						<img src="img/no-bpa.gif" width="118" height="60" alt="No Bpa">
+						<img src="img/bpa-free.gif" width="118" height="60" alt="Bpa Free">
 						<img src="img/ou-logo.gif" width="60" height="60" alt="Ou Logo">
-						<img src="img/alaska-seafood-logo.gif" width="112" height="60" alt="Alaska Seafood Logo">
+						<img src="img/alaska-seafood-logo.gif" width="112" height="60" alt="Alaska Seafood Logo"><br>
+						<img src="img/icon-healthy-protein.gif" width="80" height="60" alt="Icon Healthy Protein">
+						<img src="img/icon-natural-omega-3s.gif" width="99" height="60" alt="Icon Natural Omega 3s">
 					</div>
 				</div>
 			</div>
