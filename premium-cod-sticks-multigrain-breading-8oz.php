@@ -21,6 +21,7 @@
 						&#8727;We do not use canola oil that was produced using biotechnology.<br>
 						Cut from 100% cod.</p>
 					<div class="symbols">
+						<img src="img/msc-logo-cod-pollock.gif" width="69" height="120" alt="Msc Logo Cod Pollock">
 						<img src="img/icon-ocean-friendly.gif" width="78" height="60" alt="Icon Ocean Friendly">
 						<img src="img/icon-good-source-of-protein.gif" width="123" height="60" alt="Icon Good Source Of Protein">
 						<img src="img/icon-natural-omega-3s.gif" width="99" height="60" alt="Icon Natural Omega 3s">

@@ -11,7 +11,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="item active">
-      <img src="img/Slide1.png" alt="First slide">
+      <img src="img/Slide1.png" alt="First Slide">
     </div>
     <div class="item">
       <img src="img/Slide2.png" alt="Second slide">
@@ -25,7 +25,7 @@
 	<img src="img/Middle_Headline.png" width="340" height="35" alt="Same High Quality">
 </div>
 <div class="blue">
-	<p>Since 1991, Natural Sea has been committed to sustainable fishing. We are proud to offer seafood products that, individually, meet the guidelines established by various independent agencies including the Monterey Bay Aquarium, Marine Stewardship Council, Blue Ocean Institute, and Earth Island Institute. Additionally, all our tuna now comes in BPA-Free cans  and is Non-GMO Project Verified.  <br /> Natural Sea, more than just a pretty can.</p>
+	<p>Since 1991, Natural Sea has been committed to sustainable fishing. We are proud to offer seafood products that, individually, meet the guidelines established by various independent agencies including the Monterey Bay Aquarium, Marine Stewardship Council, Blue Ocean Institute, and Earth Island Institute. <br> Additionally, all our tuna is Non-GMO Project Verified.<br> Natural Sea, more than just a pretty can.</p>
 </div>
 <div class="promo">
 	<div class="row">

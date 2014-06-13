@@ -23,7 +23,7 @@
 						<img src="img/non-gmo.gif" width="83" height="60" alt="Non Gmo">
 						<img src="img/bpa-free.gif" width="118" height="60" alt="Bpa Free">
 						<img src="img/ou-logo.gif" width="60" height="60" alt="Ou Logo">
-						<img src="img/alaska-seafood-logo.gif" width="112" height="60" alt="Alaska Seafood Logo"><br>
+						<img src="img/alaska-seafood-logo-horizontal.gif" width="194" height="60" alt="Alaska Seafood Logo Horizontal"><br>
 						<img src="img/icon-healthy-protein.gif" width="80" height="60" alt="Icon Healthy Protein">
 						<img src="img/icon-natural-omega-3s.gif" width="99" height="60" alt="Icon Natural Omega 3s">
 					</div>

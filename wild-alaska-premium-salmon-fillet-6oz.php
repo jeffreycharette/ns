@@ -21,8 +21,8 @@
 						Wild Alaska Salmon Fillet. No Artificial Colors, No MSG, No Preservatives.</p>
 					<div class="symbols">
 						<img src="img/non-gmo.gif" width="83" height="60" alt="Non Gmo">
-						<img src="img/bpa-free.gif" width="118" height="60" alt="Bpa Free">
-						<img src="img/alaska-seafood-logo.gif" width="112" height="60" alt="Alaska Seafood Logo">
+						<img src="img/bpa-free-packaging.gif" width="117" height="60" alt="Bpa Free Packaging">
+						<img src="img/alaska-seafood-logo-horizontal.gif" width="194" height="60" alt="Alaska Seafood Logo Horizontal">
 						<img src="img/icon-high-in-protein.gif" width="122" height="60" alt="Icon High In Protein">
 					</div>
 				</div>
